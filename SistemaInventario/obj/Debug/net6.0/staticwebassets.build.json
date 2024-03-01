@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EEw5w87VN3CMNi9IKBaPHq5uy8eAw5vfjy2GG1OT45g=",
+  "Hash": "VQ7CsR9SB+gZJyOk/56Dk2qDMYzVjS9ZYCM4vQT11xQ=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
