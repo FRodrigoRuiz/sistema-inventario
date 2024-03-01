@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6Dsm0tnpU1y80sVTdRYUa71pY7ohfMdCjYkwhLw8Oow=",
+  "Hash": "EEw5w87VN3CMNi9IKBaPHq5uy8eAw5vfjy2GG1OT45g=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
