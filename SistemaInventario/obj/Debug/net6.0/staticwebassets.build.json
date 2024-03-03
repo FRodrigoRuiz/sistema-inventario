@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o3Ljjserwcx7qNkVFK5opwLNoUjM+86XsxulDU6Wd5E=",
+  "Hash": "jZzAzs9CgrLRrRvvVXRZR/YqyljJ+GTfv5t4UKJ/YeU=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d80c6969-772f-409c-8a8f-4c76b4da1a85.JPG",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "imagenes/producto/d80c6969-772f-409c-8a8f-4c76b4da1a85.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\producto\\d80c6969-772f-409c-8a8f-4c76b4da1a85.JPG"
+    },
+    {
       "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "SourceId": "SistemaInventario",
       "SourceType": "Discovered",
@@ -1154,6 +1171,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\marca.js"
+    },
+    {
+      "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/producto.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\producto.js"
     },
     {
       "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
