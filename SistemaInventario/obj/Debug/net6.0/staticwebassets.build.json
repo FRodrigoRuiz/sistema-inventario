@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VDdRQgyDC/2lOsA8Td610uz7QpnhFGLUoCYYho5Zab4=",
+  "Hash": "caYV6AAxsFgQTQaYaRM6nK1nR09Lsx4xQMlZHH5SNS8=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1341,6 +1341,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\usuario.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/usuario.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\usuario.js"
     },
     {
       "Identity": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
