@@ -4109,6 +4109,9 @@
       "SistemaInventario.Utilidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "6.0.27"
+        },
         "compile": {
           "bin/placeholder/SistemaInventario.Utilidades.dll": {}
         },
