@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wooR2xY8IMATV2gWCllPIhWGHhg+37Y2uRmrR0EtopMaQPzSF938ARQMEEQc4AYKTC7XRomJt3ZhTr6/wZ8r/Q==",
+  "dgSpecHash": "J2nDQbC0H8DCD8ZfLom3mprTEndixS2qjLbf+JEr9Th0QFQiXOlMm0nWeniqTg7GZHqTnBD6kIvH/JA7/TcbJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
   "expectedPackageFiles": [
@@ -169,6 +169,7 @@
     "C:\\Users\\BELTARiT\\.nuget\\packages\\nuget.projectmodel\\6.6.1\\nuget.projectmodel.6.6.1.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\nuget.protocol\\6.6.1\\nuget.protocol.6.6.1.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\nuget.versioning\\6.6.1\\nuget.versioning.6.6.1.nupkg.sha512",
+    "C:\\Users\\BELTARiT\\.nuget\\packages\\rotativa.aspnetcore\\1.3.2\\rotativa.aspnetcore.1.3.2.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

@@ -550,3 +550,6 @@ C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\b
 C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\SendGrid.dll
 C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\StarkbankEcdsa.dll
 C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\libman.json
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Rotativa\Windows\wkhtmltoimage.exe
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Rotativa\Windows\wkhtmltopdf.exe
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Rotativa.AspNetCore.dll
