@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "J2nDQbC0H8DCD8ZfLom3mprTEndixS2qjLbf+JEr9Th0QFQiXOlMm0nWeniqTg7GZHqTnBD6kIvH/JA7/TcbJw==",
+  "dgSpecHash": "rrn6adPWFIhlX+6ou7oGOodo70K92yW4ZB1ojAtfgLDKqEk22zRItAlLrUZpJi+iOR9E7ISk26MBrq9NuC1Mvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\BELTARiT\\Desktop\\Proyectos de ASP\\SistemaInventario\\SistemaInventario\\SistemaInventario.csproj",
   "expectedPackageFiles": [
@@ -188,6 +188,7 @@
     "C:\\Users\\BELTARiT\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\sendgrid\\9.29.2\\sendgrid.9.29.2.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512",
+    "C:\\Users\\BELTARiT\\.nuget\\packages\\stripe.net\\43.19.0\\stripe.net.43.19.0.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\BELTARiT\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

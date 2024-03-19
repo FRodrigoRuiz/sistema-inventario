@@ -553,3 +553,4 @@ C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\b
 C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Rotativa\Windows\wkhtmltoimage.exe
 C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Rotativa\Windows\wkhtmltopdf.exe
 C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+C:\Users\BELTARiT\Desktop\Proyectos de ASP\SistemaInventario\SistemaInventario\bin\Debug\net6.0\Stripe.net.dll
